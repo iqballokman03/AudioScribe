@@ -1,0 +1,7 @@
+{
+  "name": "AudioScribe",
+  "description": "Transcribe audio to text with high accuracy, export to multiple formats, and summarize the output.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
